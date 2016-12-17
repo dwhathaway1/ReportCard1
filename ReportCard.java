@@ -26,6 +26,7 @@ public String getGradeGiven(){
 return mGradeGiven;
 }
 
-ReportCard r1 = new ReportCard (
+public String toString(){
+return ReportCard}
 
 }
