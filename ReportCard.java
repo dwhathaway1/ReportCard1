@@ -27,6 +27,7 @@ return mGradeGiven;
 }
 
 public String toString(){
-return ReportCard}
+return ReportCard;
+}
 
 }
